@@ -1,5 +1,5 @@
 # Canvas tricks
-> Magnetic, Jelly effect, responsive Circle Collision 🐳
+> Magnetic, Jelly effect, Responsive Circle Collision 🐳
 
 ![](header.png)
 
