@@ -1,0 +1,11 @@
+ProjectTitle: Canvas Tricks
+
+PageList:
+- file: magnetic.html
+  ready: 50
+
+- file: jelly.html
+  ready: 50
+
+- file: circle-collision.html
+  ready: 50

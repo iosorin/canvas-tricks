@@ -1,0 +1,39 @@
+body
+    display: flex
+    align-items: center
+    height: 100vh
+    background: #fff
+    overflow-x: hidden
+
+.vcenter
+    +vcenter
+
+.img-responsive
+    +resp
+
+.container
+    width: 100%
+    padding: 0 50px
+    margin-bottom: 20px
+
+.canvas-container
+    width: 39vw
+    height: 80vh
+    border: 1px solid #222
+    margin: 0 auto
+    position: relative
+
+#magnetic-target
+    border-radius: 50%
+    background: #ff0
+    width: 100px
+    height: 100px
+    position: relative
+    img
+        +vcenter
+
+#circle-collision-canvas
+    +coverdiv
+    +vcenter
+    transform: translate(-50%,-50%)
+    border: 1px solid rgba(0,0,0,0.1)
